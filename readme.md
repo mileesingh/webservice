@@ -1,4 +1,4 @@
-# Web App using Flask
+# Web Service using Flask
 
 REST API created using python Flask server 
 
